@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: 8b08d3fc93b85435690454e5833bebec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 348
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthGood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae81da9ebfe4c1d91bc1ce676bcddb
+      internalID: -1461796946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea027643a2084802abb63e197df2263
+      internalID: -1516446933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700958e77b454153ad2d69373e128f5
+      internalID: 305296081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b5950193b94671b378abf1aa0e9d3
+      internalID: -183818248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4e50928c567498c965667343c70269
+      internalID: -1011360479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4bfdc76f3b444f8c5e9c1287880f1
+      internalID: -869317189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_6
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a256a69bca6904c89b2626b5ada8bddc
+      internalID: 588225817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5757b97f1a634c12afecb5ca9b46265
+      internalID: 512699132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79860cbffc3ae43d7aa87d9913abc66e
+      internalID: 1755367718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f432a719756845448690f3279642eea
+      internalID: -1090649185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_10
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69f2931dea048699eb680b7655897f
+      internalID: -1907538813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec68f35af5324bb7b062810f1a7afc9
+      internalID: -1332809719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc00d8d599a547ed87ef2f338b5e350
+      internalID: 72541035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_13
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be39ddd7eb99c47dc85bb80d50a5e785
+      internalID: 1916247512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c51e60db15e440194a5a7528ae277a
+      internalID: 1928528628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3b0b476b7849a882b0a97f2cfe843
+      internalID: 146073284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2d253cc68941df93899abd81aecfd
+      internalID: -1679841430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52ad9bf91d24499a9368e0f28d2bf2
+      internalID: 186581590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6d6138f7964478d9513337ab316125
+      internalID: 1586440862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_19
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a87860f95b4e7ea7a40bd462b3306
+      internalID: 739107428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_20
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57fe7301ec974d42a3b7b85dbd6b932
+      internalID: 1911689269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc182d0496e3412ba8c8d7d26bb0ae2
+      internalID: -2017495128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064d6521c1b942369f0b524eb9878a6
+      internalID: -1259210463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33bac54871844f6a4d8f1f1b6bd5c3
+      internalID: -446954538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a2829fb85f48478aaf089c5a06f58
+      internalID: 1387863560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_25
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89736c2ebfb443a96b76b0e9660025
+      internalID: 535975607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_26
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48bedd246a9142ec8c1ec38ac72afb0
+      internalID: 1791238657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_27
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b55798316e4d71bb4245e523af4d7
+      internalID: 1884804013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64931c8d9ad843d79148155ed7f085a
+      internalID: 1993982700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218bd9ddc8b54a9e97e5366a60b1c65
+      internalID: -1889317075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80365046316fb478b8721f737cbfc2ec
+      internalID: -907701405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_31
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3966a8f56c90429b88b0ccbbe369251
+      internalID: 660840302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_32
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cbb89b3ad0459f9bab2d88d46d145
+      internalID: 1654018699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_33
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e6e6b924ce49c386ca510d69ed06e
+      internalID: 1300364789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_34
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a784724b644e4399bda371afb8b81
+      internalID: -209238698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab57b4166d54d4883abe393fde6e53
+      internalID: -1867323109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3b156c71df845d49cb8c779ffabc25
+      internalID: -560584003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0a2d5c6c474cf4b255eb4c680cc26
+      internalID: 190290553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_38
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef37f4064c64a62bf5327cb4ef3f3e
+      internalID: 344641370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_39
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7125191c9880444dfbf5eaaec1792a0f
+      internalID: 1567620829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_40
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f23b33f139f472e81f0901e28fa256
+      internalID: 722152338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_41
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293baf575f33d40cf80d9e4e6470d945
+      internalID: 994538538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5023fc294a74a1bb2e52e0e2884eda
+      internalID: -1687087036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a223504e7bd64396b105cdd302caac3
+      internalID: -259676920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a3ca921a9048e3b3a7a25b1297fcb
+      internalID: -942313303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_45
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac14ff40d40e4a93a51debec8f3ccaf
+      internalID: 1185662739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74a3cf9e31c40eba5b66686c480640
+      internalID: -1301672903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_47
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f28b395ce7e4fb9bb3613c065b7166
+      internalID: -1214864197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_48
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3bef5c7f004bca8ca02f849e62494
+      internalID: -415930324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345ab5ddb21644eaa9b3c497b8a8e755
+      internalID: 681418629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7511cfcd4174d49a926ec07664a077
+      internalID: -721177771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_51
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab127755bae184b43bca9e99b90b1cb8
+      internalID: -673435099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e354c3e2a9e4c2797fc71e7e314f53
+      internalID: -665906410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef5fc3169b64043bd6fb89ec23ba10
+      internalID: 1044226614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_54
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7c47d6c7b24bbe8e3ae7ca4bf7576
+      internalID: -2067606136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_55
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6801fb3cf5a904b30b8e7d0973d69d61
+      internalID: 907129662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef745df44c9b40518ac6d1ba8e2601f
+      internalID: -1465312470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260f742565254a5b87eedee0300b4c9
+      internalID: 1742596704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37147ff13ba5148ed9d1af34b0a2bfd2
+      internalID: -172373250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfeba91f4bba45adb55ac6fac10f44e
+      internalID: 451787261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_60
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e6f4f27cdc84d679e16ca89886ca4f
+      internalID: -453943816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_61
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e42c18bc9c4d45aa9e73bcbfdac6d
+      internalID: 1961679326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_62
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c24b4660cef1479fa3c67aade45e142
+      internalID: 1451570574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddf9cd29f754f0581912d8b8c0e70a
+      internalID: 31852817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebf19a885b6421b8ca8bf9bd91e8c2
+      internalID: -1728539851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_65
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad71ce4044d1d45e0a538ae49976e9a9
+      internalID: 1446936191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235490ee3e0274aad929c46a412b7a28
+      internalID: 1959633852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_67
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8886e150feda46b69eb308c4a0dd3da
+      internalID: -1884305239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_68
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3544fc86c4498694244444556a04d
+      internalID: 1819734741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_69
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904625a69fdd446cb4e1fe587828be3
+      internalID: 1565727629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435be95f8e5614839a48254f0307c321
+      internalID: 1041739329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980ab2624f0224647b48b146ff8ae19d
+      internalID: -413917043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_72
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2cf0ce115f4ea2af90cd2553f1ba0
+      internalID: -2019266161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb5f85d51a84497ba700aa2c023455
+      internalID: -1642120062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_74
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c001aa222e8475dbb40fc2668216db
+      internalID: -571461236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_75
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad94c2f49a3c4addab2428054fdf0c8
+      internalID: -1644766861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_76
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505761586e7be4868aab2505bd8f6967
+      internalID: 1761702124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8e319c4752487a99831e3e16d4cff
+      internalID: -3791697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_78
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee1b93e2abe46cfa50328206638c44
+      internalID: -844313608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_79
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cd5ced894b40fc9eb4d75435c6c63
+      internalID: -1585638531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89b40f928af45a697e6ee04659156c
+      internalID: -518456846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_81
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c9cf0f4cdd47f48fb55a6d699f994
+      internalID: 1114952593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_82
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf2647aec27499d8e9eb431a06497a
+      internalID: 301596546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_83
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b19d78ff9a4ebd94c23dd542b0094
+      internalID: 1130955885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18212721a59c14bc58038ec93a122d46
+      internalID: -281920971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_85
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472332ca23984807967b8a8917954d3
+      internalID: 866758120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_86
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e386e03ba2342b48d329ae1302aa91
+      internalID: 1277034729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_87
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d1c8e12bf5411fb98cc0edfe46422
+      internalID: 1262334012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_88
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2f28fe95d64f40ab88aa477f4ee70
+      internalID: -18219738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_89
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74699048d1a54296865c224f05b83ad
+      internalID: -1791358566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_90
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de96d8a1945494d048f8527a8f5c7a43
+      internalID: -1637348468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8000bcc771e64abab018ca2f804ac56
+      internalID: 1230916745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146db33c47fb4caeb0e53f650eedef6
+      internalID: -296309282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6167b017e871e4ebea844463fefee79f
+      internalID: 397765641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_94
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a5283e5d7b4394a77f455471d98b2
+      internalID: -1339462684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_95
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697761e46a8541cdaea4d7c91009218
+      internalID: 617683493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_96
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c0c53422894a159efaa00a8881f13
+      internalID: 1107830087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_97
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b197303efb9488ea3722fd8fd8b96c
+      internalID: -1485172765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db32799d7683447e9a507a497a44a5a
+      internalID: -632865213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_99
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c112898a6a48f190d2e2e4090102b
+      internalID: 464699264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_100
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f37cb028e14692a77c01d63086c68
+      internalID: 483166721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_101
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b2516cdc99644d4960773ea802faab
+      internalID: 721736278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_102
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d1aefe0571478596aa4e61ab1ada8
+      internalID: -251375127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_103
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4137720000c94b45b682aa19108c4cb
+      internalID: 1339372147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_104
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc69f4e69fa4503914c2088cfc00a3
+      internalID: -961817822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0025540cef4b76ac37fe414bd1bf5
+      internalID: 1917847139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_106
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996ae8296efc48509ee3d514cebc3d3
+      internalID: -1313129940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_107
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b996ce045e4c497ea50016ebad2191b
+      internalID: 897015287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_108
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c596a8f3d00425d95e907be1d33166
+      internalID: 2759122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_109
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd04a1261de24b35967bece5d5adeb0
+      internalID: -1503710461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_110
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8250e5288cf452b830ccc9e9b0a10d
+      internalID: -1524875710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_111
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07644b8e1ea047dc886ebdf73ac707c
+      internalID: 1409167401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74b1b74637b14e2ca5b5564f0703a46
+      internalID: 214896567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896db6b836fd413fb0b26ba8ce61f91
+      internalID: 1994640265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_114
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b70f8085721495da7d4145655898ec
+      internalID: 798891579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_115
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8ea0cd218bf4335816772d9c330570
+      internalID: -2127974642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_116
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473d46d700034849aca0e6032dfe920
+      internalID: 1386380189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_117
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782189b76ff24b1b982208f2f0f28ae
+      internalID: 2116731222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_118
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400adc278b01f45a8bfe61176bbd7feb
+      internalID: -181350942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd0a0dd5abb4584ab4acd7a1460b8d
+      internalID: 2049785328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73119f266eef46a2b494eeaf6e71cd9
+      internalID: 6973988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_121
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221c2f0912c64530a5c9789a1d8e1e3
+      internalID: -1261990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_122
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074bad310709461aa4976b7b5382758
+      internalID: 1679975222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_123
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa9854445b3457ab4a7490c85d1f70
+      internalID: -1016097759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_124
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd893320d10134e55969518b76e10b49
+      internalID: -1581249750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_125
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daace4788327643a9b193c04d4145cad
+      internalID: 104640505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03ae57675d64b9aa44a9e3451fd3da
+      internalID: -1043402368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_127
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b3f91a1093424689208742bc4fd39
+      internalID: 1496483818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_128
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e16b1485e7d44f118a817768d32fa3d
+      internalID: 1474570836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_129
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96571604d554f0788608f6f754daf4
+      internalID: 799376983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_130
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f924dbf0314c4f22a1b1e88a2982ddb
+      internalID: -1223326854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_131
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42147189e54de4ff68bc85e94f71ce8e
+      internalID: 440795712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_132
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674562f4241e948b19f6dc60c511bca2
+      internalID: -1708579675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb45261c14654ad7918f1c7ea575242
+      internalID: -1197474466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddaedb0c32fd40de88385cf81dcae24
+      internalID: 540532269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_135
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60b4fab1cf54f8ea6b57d70011d5fd
+      internalID: -196503277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_136
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2f7774b86740cfa8b8c7645234b58
+      internalID: 452881289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_137
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f496c940db842fbb2a760ef9e8f3f3
+      internalID: 1590919888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_138
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e21ead107de428db849e3b390b9120
+      internalID: 209994568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_139
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac7c83e446dc4fd89570cb9758207c1
+      internalID: 1090637042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f5c1b6f79c4bdd95d27a6d0850721
+      internalID: 1518437256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67252dfeac0f94ec9b6a536678706ac3
+      internalID: 781057406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_142
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6dc1726ad864646934b465e299a26a
+      internalID: -832561146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_143
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3565afa97f0f45d887b1bf14c93c8a5
+      internalID: 658258657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_144
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117804c4031745038229b4fe51fa90d
+      internalID: 49385551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_145
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf28ce38fdcb493bbf0aea8799402bf
+      internalID: -1583896160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_146
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73baa31fa905c4230b9582f02f4121ed
+      internalID: 1107672507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe831f38fb8d45c1b11b78c811156f5
+      internalID: -1054461047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_148
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5408051732b64991b0929de37142dee
+      internalID: 922528402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_149
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595fadf3ad5cb4941bac7f3978e3eb64
+      internalID: 1111807713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_150
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9b6842573a48bc85899ce96fc5af1
+      internalID: -1344549239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_151
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a6aae7ede66474e81882481d7894b1
+      internalID: -1116057855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_152
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0ec9fa52f749228a039bc781ce860
+      internalID: 1198061933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_153
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802f0e901dbe47e1b0adb3fdd57a02a
+      internalID: -1057534917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06f7ec0ac4846b08db35b0cae44e08
+      internalID: 1264079747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_155
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e8276d67e4464cac2ad27f11c36b1
+      internalID: -933676657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_156
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd59fd075b95402d9ed9d569e0da8d4
+      internalID: -1394765176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_157
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ac8b471c254342b41a6485a95e8dc
+      internalID: -622221532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_158
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a597fcd07c47d2b42c0bea47d3294
+      internalID: 101203657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_159
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2893dee69b341c0a78704ada8a9725
+      internalID: -964043417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_160
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f399a3722b77044b99f5641320b59d1e
+      internalID: 1402517254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5eb8e11f5474b6698b267fa98e7835
+      internalID: -575348096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_162
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93f4bd0feb8442ba575e5a3f2a176f
+      internalID: 1366181390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_163
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0612afef674e74bb97b7e447502ab
+      internalID: 1968203431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_164
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b86b8c503e465f8bb0b85afc20793
+      internalID: 250439922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_165
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b9636f7e074d1ebd241b3fe242249
+      internalID: 1775755228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_166
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd448db677f0d4e828df2450a497bd5a
+      internalID: -1749035628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_167
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa762fb1bd346dea819e196499ee53
+      internalID: 1555210382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b38a2bcbff449e87c11e9b26de537
+      internalID: 941101449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_169
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91796b467f0b149fca4f52b4c40601cc
+      internalID: 368758946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_170
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0709d0769344699395cf58a9102f7
+      internalID: -595089099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_171
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6affe0c640429a897ab697ea43123
+      internalID: 1527800349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_172
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bf34359b7244139c18aadf7555994
+      internalID: -798249998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_173
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf926c0856d19424ca9683bade86d556
+      internalID: -77406456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthGood_174
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6760153ab7642c88eb7e2132431a36
+      internalID: 291604699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      healthGood_0: -1461796946
+      healthGood_1: -1516446933
+      healthGood_10: -1907538813
+      healthGood_100: 483166721
+      healthGood_101: 721736278
+      healthGood_102: -251375127
+      healthGood_103: 1339372147
+      healthGood_104: -961817822
+      healthGood_105: 1917847139
+      healthGood_106: -1313129940
+      healthGood_107: 897015287
+      healthGood_108: 2759122
+      healthGood_109: -1503710461
+      healthGood_11: -1332809719
+      healthGood_110: -1524875710
+      healthGood_111: 1409167401
+      healthGood_112: 214896567
+      healthGood_113: 1994640265
+      healthGood_114: 798891579
+      healthGood_115: -2127974642
+      healthGood_116: 1386380189
+      healthGood_117: 2116731222
+      healthGood_118: -181350942
+      healthGood_119: 2049785328
+      healthGood_12: 72541035
+      healthGood_120: 6973988
+      healthGood_121: -1261990550
+      healthGood_122: 1679975222
+      healthGood_123: -1016097759
+      healthGood_124: -1581249750
+      healthGood_125: 104640505
+      healthGood_126: -1043402368
+      healthGood_127: 1496483818
+      healthGood_128: 1474570836
+      healthGood_129: 799376983
+      healthGood_13: 1916247512
+      healthGood_130: -1223326854
+      healthGood_131: 440795712
+      healthGood_132: -1708579675
+      healthGood_133: -1197474466
+      healthGood_134: 540532269
+      healthGood_135: -196503277
+      healthGood_136: 452881289
+      healthGood_137: 1590919888
+      healthGood_138: 209994568
+      healthGood_139: 1090637042
+      healthGood_14: 1928528628
+      healthGood_140: 1518437256
+      healthGood_141: 781057406
+      healthGood_142: -832561146
+      healthGood_143: 658258657
+      healthGood_144: 49385551
+      healthGood_145: -1583896160
+      healthGood_146: 1107672507
+      healthGood_147: -1054461047
+      healthGood_148: 922528402
+      healthGood_149: 1111807713
+      healthGood_15: 146073284
+      healthGood_150: -1344549239
+      healthGood_151: -1116057855
+      healthGood_152: 1198061933
+      healthGood_153: -1057534917
+      healthGood_154: 1264079747
+      healthGood_155: -933676657
+      healthGood_156: -1394765176
+      healthGood_157: -622221532
+      healthGood_158: 101203657
+      healthGood_159: -964043417
+      healthGood_16: -1679841430
+      healthGood_160: 1402517254
+      healthGood_161: -575348096
+      healthGood_162: 1366181390
+      healthGood_163: 1968203431
+      healthGood_164: 250439922
+      healthGood_165: 1775755228
+      healthGood_166: -1749035628
+      healthGood_167: 1555210382
+      healthGood_168: 941101449
+      healthGood_169: 368758946
+      healthGood_17: 186581590
+      healthGood_170: -595089099
+      healthGood_171: 1527800349
+      healthGood_172: -798249998
+      healthGood_173: -77406456
+      healthGood_174: 291604699
+      healthGood_18: 1586440862
+      healthGood_19: 739107428
+      healthGood_2: 305296081
+      healthGood_20: 1911689269
+      healthGood_21: -2017495128
+      healthGood_22: -1259210463
+      healthGood_23: -446954538
+      healthGood_24: 1387863560
+      healthGood_25: 535975607
+      healthGood_26: 1791238657
+      healthGood_27: 1884804013
+      healthGood_28: 1993982700
+      healthGood_29: -1889317075
+      healthGood_3: -183818248
+      healthGood_30: -907701405
+      healthGood_31: 660840302
+      healthGood_32: 1654018699
+      healthGood_33: 1300364789
+      healthGood_34: -209238698
+      healthGood_35: -1867323109
+      healthGood_36: -560584003
+      healthGood_37: 190290553
+      healthGood_38: 344641370
+      healthGood_39: 1567620829
+      healthGood_4: -1011360479
+      healthGood_40: 722152338
+      healthGood_41: 994538538
+      healthGood_42: -1687087036
+      healthGood_43: -259676920
+      healthGood_44: -942313303
+      healthGood_45: 1185662739
+      healthGood_46: -1301672903
+      healthGood_47: -1214864197
+      healthGood_48: -415930324
+      healthGood_49: 681418629
+      healthGood_5: -869317189
+      healthGood_50: -721177771
+      healthGood_51: -673435099
+      healthGood_52: -665906410
+      healthGood_53: 1044226614
+      healthGood_54: -2067606136
+      healthGood_55: 907129662
+      healthGood_56: -1465312470
+      healthGood_57: 1742596704
+      healthGood_58: -172373250
+      healthGood_59: 451787261
+      healthGood_6: 588225817
+      healthGood_60: -453943816
+      healthGood_61: 1961679326
+      healthGood_62: 1451570574
+      healthGood_63: 31852817
+      healthGood_64: -1728539851
+      healthGood_65: 1446936191
+      healthGood_66: 1959633852
+      healthGood_67: -1884305239
+      healthGood_68: 1819734741
+      healthGood_69: 1565727629
+      healthGood_7: 512699132
+      healthGood_70: 1041739329
+      healthGood_71: -413917043
+      healthGood_72: -2019266161
+      healthGood_73: -1642120062
+      healthGood_74: -571461236
+      healthGood_75: -1644766861
+      healthGood_76: 1761702124
+      healthGood_77: -3791697
+      healthGood_78: -844313608
+      healthGood_79: -1585638531
+      healthGood_8: 1755367718
+      healthGood_80: -518456846
+      healthGood_81: 1114952593
+      healthGood_82: 301596546
+      healthGood_83: 1130955885
+      healthGood_84: -281920971
+      healthGood_85: 866758120
+      healthGood_86: 1277034729
+      healthGood_87: 1262334012
+      healthGood_88: -18219738
+      healthGood_89: -1791358566
+      healthGood_9: -1090649185
+      healthGood_90: -1637348468
+      healthGood_91: 1230916745
+      healthGood_92: -296309282
+      healthGood_93: 397765641
+      healthGood_94: -1339462684
+      healthGood_95: 617683493
+      healthGood_96: 1107830087
+      healthGood_97: -1485172765
+      healthGood_98: -632865213
+      healthGood_99: 464699264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

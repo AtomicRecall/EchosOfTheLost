@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: d52589d114d1a4bec8a20926417a5bce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 348
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthMedium_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a641e2127eb264913ac7dea27ddfd0ad
+      internalID: 940912301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371dadcfe32984178a590fbcb129fe02
+      internalID: 1002972610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381a0381420c45788ca258d1c1781f4
+      internalID: 72418371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f7bde49115490298322317192ff51
+      internalID: -1506768933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41922818e1af644a8932282096282b0e
+      internalID: -1557704661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4f1f12673c470e855783fc6aee396
+      internalID: -1465471088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_6
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065edf1426ef6459d886cc3c80cf96bd
+      internalID: -1368051805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01ef8d2b5784590ad2f49b1796887f
+      internalID: -1340249309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9d2dbaf7e442cd97272b1c0023a2b
+      internalID: 1755531793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace11d0471de4eb8940ca56c8c956c9
+      internalID: -1366188031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_10
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6edf1a503d4156be4dd17b4f0c8b3
+      internalID: 1872866651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51be2bb0d0d64a069bf225934a1407b
+      internalID: -1328216289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f621d53839416d938d6c83d9e03c8
+      internalID: 828784082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_13
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517a2ad5d1f34cf998cadde05d89a75
+      internalID: -212560655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d00b517df143d3ba44730a4009c8b
+      internalID: 1936775482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2884efb70d45c0a6f39606339aa7d
+      internalID: 1049402852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f262d9c06f56473390cd1f5759c53e9
+      internalID: -288032936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c086e106a514926904a22178bb62e6
+      internalID: -659018765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456af5e3b4eb4b6badc1860a03d9500
+      internalID: -330463833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_19
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a3f0d44d6904a7ba9276157d495e22
+      internalID: -196606308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_20
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8e91f170ba4dc2ba33137cd952e32
+      internalID: 1819490631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24ad89f38bc47468660a39520db0f1
+      internalID: -1358755103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f158781906764fa2848261d8fe8e2d0
+      internalID: 495053462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8808f302094cefa7af15c05bb032d
+      internalID: -625590753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a606747f3fc1479b8c6b2e7aeec145a
+      internalID: 1085501010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_25
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f70f7b6a8d54de08249612fa4a2f6c
+      internalID: -1447711938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_26
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896927f4887ff4863a9c23d048dd3311
+      internalID: 1525035443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_27
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408618cb46bd4a4f8cc0c5be545b95e
+      internalID: -593944238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddbb5309b9344f58dbb4516c97574e
+      internalID: 1991234708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade954f8f62043f0a2f792557e653ba
+      internalID: 1227296698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4ef1e1a2bc45ffa3d7346953e97d7
+      internalID: -358517777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_31
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6e8a4125d043fc9655ff1a7849aa2
+      internalID: 1318009492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_32
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a654eef0e7f43cab6deac6fe0bb319
+      internalID: 515393148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_33
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe5f6c004bd4954a60064b133d2b30
+      internalID: -1816319907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_34
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4cca00ffc1c4cc5bf7db386cccb19e
+      internalID: 2000661175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4360de2823d4056811b3c3d5d9dd5e
+      internalID: 542767181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d70c7c73c4f49038262099f352ad1c
+      internalID: 396193285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e5b8c2120c04b8e96e10998cb3514b
+      internalID: 450555349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_38
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1440354fd04829aae8dc3478cb01e
+      internalID: 1885045110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_39
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc3e973ff2740e9b9e37fbdd25cfc4
+      internalID: -820350453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_40
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2624d63f5fd4775b89d806bdb80676
+      internalID: -1267579383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_41
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1940e516af44456a10d0dec4a376b6
+      internalID: -1365923418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5715a75b4e0484eaf1c5be8cce22ef
+      internalID: 1356990726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d16079dc7f54d0c94b06cdb0bed7fd
+      internalID: 1135003378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481af2331f9b40d0ad7da8ad162ef09
+      internalID: -2137590731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_45
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fdd8c77c2fc47d5ac773e9b317a801
+      internalID: 1044903170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a59207ce8a4663adc089811e58f73
+      internalID: 1503317431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_47
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b83c70569c452788f20ac83b7c059
+      internalID: -753731962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_48
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f596abf4dd343808cd9b65b8b82bb8
+      internalID: -829658666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e099d281e7a4f51add31a876237146
+      internalID: 553859736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5206d0a7a049e988c313364240339
+      internalID: -639639476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_51
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ad2482e5934654bd0d575b0f12e3b
+      internalID: -1071440147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d762bd61ebf441b939beb6384b17d7
+      internalID: -1620776394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f884943e8f2bf4c6e950edf4c419e5ac
+      internalID: -1072844127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_54
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4f30e478134211b3735874008256f
+      internalID: 17824247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_55
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cac08fb223d40e6bf26c6e612a751d
+      internalID: -333415304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6724d268fbfc14526958dd248837e4be
+      internalID: -40311657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7826486dfe443f7aa31111d8c18767
+      internalID: 1192720578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd30534e8044309866a70b10a94d89
+      internalID: -1174349198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668278372155414cbb0ba0b3427c0a8
+      internalID: 206993498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_60
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e0ff1e153c4c359edd42e15a21bf3
+      internalID: 1075893029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_61
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1789cf380bd48718202584519632f4
+      internalID: -1566504938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_62
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb52f21b36b485c944b40786c24214
+      internalID: 378298434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841977b288ddf4d42b32a8ddfb67ce15
+      internalID: -1382837675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903d700dd3c4484c938c3f51f28aec1
+      internalID: -1206804812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_65
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25feb1922c7e435abd127dad179a219
+      internalID: -946943382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f15ba7e4cc194d1a90a11a8b425a62e
+      internalID: -699627506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_67
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12493cc17fe58497184a08388ac00be3
+      internalID: 1983612511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_68
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49780dea7ad43405fb15b6630d1ecda7
+      internalID: 2112214856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_69
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d28920e583495b8eda36da87e71e4
+      internalID: 1053282036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c2da6e0bfd43fc931af17db426f64
+      internalID: 1951508836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b696a692e144d898818ecb9faf825
+      internalID: 1112533560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_72
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecfec202f1d4886ae6327099b9ea4f
+      internalID: 159430938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f265724731f44d5a838f6f47717884
+      internalID: 825792834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_74
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdc516b30914114bf85100f01298eb
+      internalID: 1484732649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_75
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7144760155148858726fc6907e3abb
+      internalID: 845870025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_76
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6961dcb920f4340d09d19b99214e3c07
+      internalID: -654582946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f7799a3d0b34462832e496e610c086
+      internalID: 92014625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_78
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d42c2986bab43eeac74871a2e63c53
+      internalID: 12452344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_79
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c47c229dec864bf5996ff3c8d24e769
+      internalID: 1853772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db6173b7f014dd7bfaa083111c3668
+      internalID: 521830734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_81
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e84dd7c83a44cf8f5171a88f1d265
+      internalID: -1521482709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_82
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e716e46ce06a4eedb9a6514f2f47458
+      internalID: -747793313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_83
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2de3049767d451e96ed8d47d23d73a
+      internalID: -316938417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb03cc508324f9284b884547f8e72f
+      internalID: -726142371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_85
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d7c5e6705c649a0a95a0a4e950964d
+      internalID: 45835044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_86
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba340419e5644b2a60cfe0f28aa6f5
+      internalID: -2129731895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_87
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2fa2864af964022a3a981052ab3166
+      internalID: 1021620742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_88
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d1a1e135bb45dd890501edac2283b
+      internalID: -238039384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_89
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0933af6b1b8b4f55a05a614ad67f92b
+      internalID: 1021428774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_90
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8649f7040a453688292906f3c4fc5
+      internalID: 526789991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e66af74056c74cfca7812875aef7201
+      internalID: 1408794273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb7bc66e63e4a8d8c051e90faf0bc9
+      internalID: -1210102976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3764665317df48618517deabd528730
+      internalID: 202330242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_94
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe233ea5fb62b426584f4c7be86430e0
+      internalID: 1520851163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_95
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14915c28940314554894c1968c09bf84
+      internalID: -1395338568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_96
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012bdb498df704e5083db30237054644
+      internalID: -2126490181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_97
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c24e3ff2f7246619fc05b16d157fb3
+      internalID: 1798378284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239fce1baf58f4b43917ce4bd645e9a7
+      internalID: -702955734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_99
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2fed1ec080f4bff952a60f95986d89
+      internalID: -1956626829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_100
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36672bec2438c4fa887fb77e519e08bf
+      internalID: -1162473760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_101
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c5c05db9c343e99bf9d8451f4b262
+      internalID: 1886396045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_102
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716caefe1f9ea49ea9b5fe298e98a506
+      internalID: 1759677824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_103
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970b454f35904c52bb6fb01d15f5362
+      internalID: -1047751799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_104
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42329e341c2564383ba44ba7594d292c
+      internalID: -218790353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be842ef20edaa4dce9c1049afa584bee
+      internalID: -473934954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_106
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b7b09d4b8742169616676ea758f44
+      internalID: -1784919679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_107
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8abb84708e4edb9e255241b968fd1
+      internalID: 951918924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_108
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70711d7536a5e4c10a42aaef405ff724
+      internalID: 519430556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_109
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779145ea4b7cb476fa2c9e13bbbb7a9f
+      internalID: -100125737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_110
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707bddce00d60435bbb011b53dbd1f36
+      internalID: 1283361799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_111
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a7c92fd76d4898a1646cefafc384c
+      internalID: -1009006454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce73312304574a32805a242d94af6e7
+      internalID: -1795820945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb21ff217234233b3ab58d2fe4e115
+      internalID: -565254535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_114
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d12d614e33429e9d2b6f955c3d33e
+      internalID: 1255400254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_115
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509088ec52c4144b6981a6e019351926
+      internalID: 327969675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_116
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835cdcf128bd34140a4f735d8a87bf31
+      internalID: 500300834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_117
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160333cedfb564682aaba69a06182c4e
+      internalID: -453169110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_118
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09b106c3abb4912a71d4057ebc59a2
+      internalID: -947899173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7286adb8883d4d05879bfd32a234beb
+      internalID: 132084137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501f73fa349c432cbade05ee7767594
+      internalID: 866646992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_121
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf167e860b21549f883a38d5d280fc78
+      internalID: 669707737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_122
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0c72200d6744d5b34c97f86f1cc2c
+      internalID: -2024842478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_123
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1254548a184a89968996bc56ebd6a
+      internalID: -404887397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_124
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3406268126e4169968375b3fba3bcd
+      internalID: -1742709573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_125
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1885bf7a984d1eacbf03a61b580eb
+      internalID: 296107118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7230ed4193c42148669f1018e24951
+      internalID: 955086262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_127
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff139fbfb158400b86ee54a46638809
+      internalID: 866423380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_128
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1c8bd73b484b8f99df99770bd474e
+      internalID: 1881995844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_129
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8974e4e95ebe44e1b4c0272932aa2cd
+      internalID: 1038949822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_130
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3285964bb66a246329015d3088c0feb2
+      internalID: 2072614238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_131
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058ab42eebec432bbd007d864b8dcdc
+      internalID: 1670660676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_132
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27288974dc896480287b9ff9d777c244
+      internalID: -588691848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499fc3f120544445abcd151af4831cb
+      internalID: -1207385257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd79bcc00560413b897387f44f3780e
+      internalID: -1010930979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_135
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3dcf324d8a24a24865bf3ab4cf89f4
+      internalID: 631326786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_136
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60525cdd627d4d45ac467b7e9884b48
+      internalID: -1378045648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_137
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e577e465ad40949dbe98b0991d657
+      internalID: -983882478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_138
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d6e9eaea3f4ecb97e7c41c7c19344
+      internalID: 330149431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_139
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aced32c1091417aa21fdac8acfeb78
+      internalID: 902268052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788cad5f6458a466590b0b2e15c89359
+      internalID: 1839285037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731303ec0df8461ea3afc246182fd0f
+      internalID: 386365043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_142
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a97d514d3d447b936415760e4f7a6
+      internalID: -1032633974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_143
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4ef50a4bd2418cb6c1cef996edbb0
+      internalID: -1288865927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_144
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665f2bfd14f743eabb8f56ef0b33ae0
+      internalID: 1060676104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_145
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a4efe3486ce4be8b670a5f40dd252c
+      internalID: 244151316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_146
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861173d502cae4bf19e648016c4199ed
+      internalID: -2110118589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5ab20e730e4b07a1fd33d16aa60ec
+      internalID: -32958626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_148
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e1fa8764ee4289a88197e2763cc27
+      internalID: 1095709962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_149
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f793a55b75c541c98efc966d55e6cba
+      internalID: 53970284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_150
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2798cf53674f94477be678fb92983961
+      internalID: 517617750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_151
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e49e64ae457144cca69f24d427ac961
+      internalID: 288583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_152
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430490a678d64750899a979a44d9bc9
+      internalID: -724400789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_153
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6c00de43734c14a26d1834a8553e0
+      internalID: -542953286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40182cf680746f7af46525908884ce
+      internalID: 475421267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_155
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a513583c1e0945cba5a83017f50ac5d
+      internalID: 1661176912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_156
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4554978f13284d0a8169226f766589d
+      internalID: -1377996719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_157
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61d1a6963f54a4ca76040ecce277e3
+      internalID: 1366751216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_158
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00acb806a0b31418fbab46f177807069
+      internalID: 1969036526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_159
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b75b56fb814b6794f03bcbcedeca8
+      internalID: -269193842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_160
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec09a508b5a64e4ea005eb98a9c1e9b
+      internalID: -1982134743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1330fd047e8b48ff9f68eeca6905f90
+      internalID: 360187604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_162
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931dd8202b25406998d6fbb367a19df
+      internalID: -1654824285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_163
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151dea75b56642839f109b4b4ca61b8
+      internalID: -1161709429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_164
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27dafb62604f44f9ad5607984148016
+      internalID: 806781704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_165
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701c69274adc42819613c292fadb0f3
+      internalID: -565319617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_166
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7fbb19ec5e4bb8a9111c988488d29
+      internalID: 2101313811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_167
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657f1a8ec79f4bc882379189cc4af4b
+      internalID: -1921290004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b8f42e724cb449c8008650b3088244
+      internalID: 1952629802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_169
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44978a2fbbd7143c78a0326f94993d07
+      internalID: 1092464637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_170
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c04042622eb48ff855ad97cb28513a
+      internalID: -1810030619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_171
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cde95690714452384c00d52cde4107
+      internalID: 1360797147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_172
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a875e22f4f4a12a8ecfe00a51f556
+      internalID: -1199347402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_173
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb97d73840a2472dadafd517b231f1f
+      internalID: 489459353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthMedium_174
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbe4130fde6743c79a06a24b101f0e8
+      internalID: 1817308900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      healthMedium_0: 940912301
+      healthMedium_1: 1002972610
+      healthMedium_10: 1872866651
+      healthMedium_100: -1162473760
+      healthMedium_101: 1886396045
+      healthMedium_102: 1759677824
+      healthMedium_103: -1047751799
+      healthMedium_104: -218790353
+      healthMedium_105: -473934954
+      healthMedium_106: -1784919679
+      healthMedium_107: 951918924
+      healthMedium_108: 519430556
+      healthMedium_109: -100125737
+      healthMedium_11: -1328216289
+      healthMedium_110: 1283361799
+      healthMedium_111: -1009006454
+      healthMedium_112: -1795820945
+      healthMedium_113: -565254535
+      healthMedium_114: 1255400254
+      healthMedium_115: 327969675
+      healthMedium_116: 500300834
+      healthMedium_117: -453169110
+      healthMedium_118: -947899173
+      healthMedium_119: 132084137
+      healthMedium_12: 828784082
+      healthMedium_120: 866646992
+      healthMedium_121: 669707737
+      healthMedium_122: -2024842478
+      healthMedium_123: -404887397
+      healthMedium_124: -1742709573
+      healthMedium_125: 296107118
+      healthMedium_126: 955086262
+      healthMedium_127: 866423380
+      healthMedium_128: 1881995844
+      healthMedium_129: 1038949822
+      healthMedium_13: -212560655
+      healthMedium_130: 2072614238
+      healthMedium_131: 1670660676
+      healthMedium_132: -588691848
+      healthMedium_133: -1207385257
+      healthMedium_134: -1010930979
+      healthMedium_135: 631326786
+      healthMedium_136: -1378045648
+      healthMedium_137: -983882478
+      healthMedium_138: 330149431
+      healthMedium_139: 902268052
+      healthMedium_14: 1936775482
+      healthMedium_140: 1839285037
+      healthMedium_141: 386365043
+      healthMedium_142: -1032633974
+      healthMedium_143: -1288865927
+      healthMedium_144: 1060676104
+      healthMedium_145: 244151316
+      healthMedium_146: -2110118589
+      healthMedium_147: -32958626
+      healthMedium_148: 1095709962
+      healthMedium_149: 53970284
+      healthMedium_15: 1049402852
+      healthMedium_150: 517617750
+      healthMedium_151: 288583042
+      healthMedium_152: -724400789
+      healthMedium_153: -542953286
+      healthMedium_154: 475421267
+      healthMedium_155: 1661176912
+      healthMedium_156: -1377996719
+      healthMedium_157: 1366751216
+      healthMedium_158: 1969036526
+      healthMedium_159: -269193842
+      healthMedium_16: -288032936
+      healthMedium_160: -1982134743
+      healthMedium_161: 360187604
+      healthMedium_162: -1654824285
+      healthMedium_163: -1161709429
+      healthMedium_164: 806781704
+      healthMedium_165: -565319617
+      healthMedium_166: 2101313811
+      healthMedium_167: -1921290004
+      healthMedium_168: 1952629802
+      healthMedium_169: 1092464637
+      healthMedium_17: -659018765
+      healthMedium_170: -1810030619
+      healthMedium_171: 1360797147
+      healthMedium_172: -1199347402
+      healthMedium_173: 489459353
+      healthMedium_174: 1817308900
+      healthMedium_18: -330463833
+      healthMedium_19: -196606308
+      healthMedium_2: 72418371
+      healthMedium_20: 1819490631
+      healthMedium_21: -1358755103
+      healthMedium_22: 495053462
+      healthMedium_23: -625590753
+      healthMedium_24: 1085501010
+      healthMedium_25: -1447711938
+      healthMedium_26: 1525035443
+      healthMedium_27: -593944238
+      healthMedium_28: 1991234708
+      healthMedium_29: 1227296698
+      healthMedium_3: -1506768933
+      healthMedium_30: -358517777
+      healthMedium_31: 1318009492
+      healthMedium_32: 515393148
+      healthMedium_33: -1816319907
+      healthMedium_34: 2000661175
+      healthMedium_35: 542767181
+      healthMedium_36: 396193285
+      healthMedium_37: 450555349
+      healthMedium_38: 1885045110
+      healthMedium_39: -820350453
+      healthMedium_4: -1557704661
+      healthMedium_40: -1267579383
+      healthMedium_41: -1365923418
+      healthMedium_42: 1356990726
+      healthMedium_43: 1135003378
+      healthMedium_44: -2137590731
+      healthMedium_45: 1044903170
+      healthMedium_46: 1503317431
+      healthMedium_47: -753731962
+      healthMedium_48: -829658666
+      healthMedium_49: 553859736
+      healthMedium_5: -1465471088
+      healthMedium_50: -639639476
+      healthMedium_51: -1071440147
+      healthMedium_52: -1620776394
+      healthMedium_53: -1072844127
+      healthMedium_54: 17824247
+      healthMedium_55: -333415304
+      healthMedium_56: -40311657
+      healthMedium_57: 1192720578
+      healthMedium_58: -1174349198
+      healthMedium_59: 206993498
+      healthMedium_6: -1368051805
+      healthMedium_60: 1075893029
+      healthMedium_61: -1566504938
+      healthMedium_62: 378298434
+      healthMedium_63: -1382837675
+      healthMedium_64: -1206804812
+      healthMedium_65: -946943382
+      healthMedium_66: -699627506
+      healthMedium_67: 1983612511
+      healthMedium_68: 2112214856
+      healthMedium_69: 1053282036
+      healthMedium_7: -1340249309
+      healthMedium_70: 1951508836
+      healthMedium_71: 1112533560
+      healthMedium_72: 159430938
+      healthMedium_73: 825792834
+      healthMedium_74: 1484732649
+      healthMedium_75: 845870025
+      healthMedium_76: -654582946
+      healthMedium_77: 92014625
+      healthMedium_78: 12452344
+      healthMedium_79: 1853772905
+      healthMedium_8: 1755531793
+      healthMedium_80: 521830734
+      healthMedium_81: -1521482709
+      healthMedium_82: -747793313
+      healthMedium_83: -316938417
+      healthMedium_84: -726142371
+      healthMedium_85: 45835044
+      healthMedium_86: -2129731895
+      healthMedium_87: 1021620742
+      healthMedium_88: -238039384
+      healthMedium_89: 1021428774
+      healthMedium_9: -1366188031
+      healthMedium_90: 526789991
+      healthMedium_91: 1408794273
+      healthMedium_92: -1210102976
+      healthMedium_93: 202330242
+      healthMedium_94: 1520851163
+      healthMedium_95: -1395338568
+      healthMedium_96: -2126490181
+      healthMedium_97: 1798378284
+      healthMedium_98: -702955734
+      healthMedium_99: -1956626829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

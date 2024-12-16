@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: e6be027bffd6148acac799eb90f2c966
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 348
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthBad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5d72fd505241dc8cd144f6520260c
+      internalID: -2006665874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b0308a4b1746b9aacbefcdb2350f6
+      internalID: -1686158673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce813d960b2648dc9f7c7499304dca1
+      internalID: 886141563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a7370291bd43fe8b406341c7e17c2
+      internalID: 960839235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a955847decd4492aa960ec1c363877
+      internalID: 2073744642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a896d4fd2f47bda14dc272ef4aa0c
+      internalID: 1480996185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_6
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2112
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824516925b2cf4dadbe10e8e88c5528c
+      internalID: 972480988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4eb7998463b4b25bfbd3c04b6bebb5
+      internalID: -646822971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e42ff931ebf462aa49cf289eb8cea6
+      internalID: 1750163312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c43ee76f0bb4b4fba301e94f94dea8
+      internalID: 781129476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_10
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a40c69f777644ef944f7225d142c5e
+      internalID: -2096853522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab4ce199c3214dc5917bc650b59cf62
+      internalID: 731475070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b8d22bfb9e4b23b6a1d157b1b9785
+      internalID: 877152116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_13
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2024
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7132a602cb74bf088a07950c9ed726
+      internalID: 664247951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c789a4a31a416b988869145f04164
+      internalID: 1340377466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24869f5191c0d402a9fa8f444b74e806
+      internalID: -1083297683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f098ed8b43da42b691bb8d4c9afdd0d
+      internalID: 1101516974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6840aecaf044b399d1d0f748463b82
+      internalID: -1167101941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426cb343d7f3a407dba13b13c26dafca
+      internalID: -810784604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_19
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb59ff05da0224acb9e64065acb0b722
+      internalID: 794289847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_20
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1936
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a7a07af17e4731805747d7cbe7a57
+      internalID: -17149153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2368eba86f994767aac6a01239bed88
+      internalID: 333364794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c218f9803b854c889cca6a0108c773e
+      internalID: 1633759690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4697a334ed4280888873d53559b2a
+      internalID: -1882303865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c66f7faa93bf447eb1b934c24c470e0
+      internalID: -404147548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_25
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7113ffc2c2a54cf2a48ea933682796c
+      internalID: 1157455079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_26
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3fb5c0bf4b4783818b296f736e232
+      internalID: 761665367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_27
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1848
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae042c493964578b20eebd40f734bb
+      internalID: -1953639500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7cce5515871431886ce3799f845d42
+      internalID: 1516175256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1e8ff037ee4c908df2e958a470400
+      internalID: -1714585392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373a2578bbe44ddfa27f1341db8532b
+      internalID: -26416755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_31
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da62a8e57114777bda6c2642940c29
+      internalID: -1937677027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_32
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282c3311abd241b88029a103418ec2e
+      internalID: -1373169687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_33
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fd75dda0e44e9bbb6bc5369632dab
+      internalID: -1013166584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_34
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1760
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26cd90c6385436cb77b1f4519e05c4
+      internalID: -586734126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ac3451c85e4d3fb2d63b8748d482a
+      internalID: -1830782681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450516be716a431bbd7d1fe91155b95
+      internalID: 1043541681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad207d0325c0d42ba8c0e1cb03a468ca
+      internalID: -560007566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_38
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c23143173cc4955b19383a599e75c0
+      internalID: -1293453504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_39
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24732e884f90a4676bbc84a9a2ca0000
+      internalID: 96061130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_40
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173fa2acf0d224a3d95bc3f0ba277c75
+      internalID: -91837952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_41
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1672
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57a592465bb48e2b2fe76ddaea3291
+      internalID: -1578605825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f97d53ca31490c9e4e4cea7259916
+      internalID: 302896422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1676b6c140449d59b87d7405dbf4fa
+      internalID: 1780495687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41a3390f6284948ad10f05c389c104
+      internalID: -1112393653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_45
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82909d14ad744d539d3760491e1378b
+      internalID: -1093147631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a028aa699b1084c8fa28749c2bb750bb
+      internalID: -667495390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_47
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34f097c09bb471ebdbae1c13e8ecf9
+      internalID: 1068912709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_48
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1584
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd568b9e1705b46c2bdd2f0d945e4a7b
+      internalID: 1370870557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f114b84f804bfe8e0c45136bebe0c
+      internalID: -1623137633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750cd5acf60284b768027a174788f43f
+      internalID: 763090942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_51
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dc81f977d44f039bca8682b27c337
+      internalID: -903426598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f7e3db699f415bbc7266705f9ee83
+      internalID: 1241458417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde4f06e463c44be2b15989005d32d96
+      internalID: 46826591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_54
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f602918e13f74f138dcefb186748cf0
+      internalID: 126285881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_55
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1496
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049a12e99c324b928613aa55830b048
+      internalID: -2049272112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944790b6da76140a79addc24ed5a3e26
+      internalID: 961351229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa3ade817354ddd8f6d621a4c1d044
+      internalID: 125126602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e1cacbd774414d9ca9dea63aee1b5
+      internalID: -1170712320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22da353b56d442f0b2bbe775d83a168
+      internalID: 153660122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_60
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e947b28bdb824f9d80f4cdfc72fbc07
+      internalID: 764726986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_61
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829507eeffc1b4b33a7ff0e83f87cf71
+      internalID: 58465659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_62
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1408
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3331f42ec14e348f70c8cacbb701e
+      internalID: -875686929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f05c2025a1480a967f58681408a20
+      internalID: -1688188681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb0284056bf431cb9c06ab4e06468c
+      internalID: -599540427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_65
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3869736611e4370acfcbefe211c40f
+      internalID: 875811083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dca4a99ec744cf6892240e71e7cc1e
+      internalID: 1552822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_67
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d107950e3dae4d4fa7075bd30a18854
+      internalID: -585847378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_68
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa68ab7828040909949a6777c0c435
+      internalID: -246607952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_69
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1320
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3e5a48c53b4b7c973613712aee37a
+      internalID: 1876796254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c96d81706e041c8972e51c811ab051
+      internalID: -1869869064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0c96176790406fb23a44898c3224c
+      internalID: 1950243162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_72
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb678b3b82b2445d805125f25846200
+      internalID: 1276751940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaeeeaa4d6c7458fa9541ab72155d53
+      internalID: 355619357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_74
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba22aef5fffe473e9a35f37a953000b
+      internalID: 369093006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_75
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae100e07c4a24465691700e4a8e05df5
+      internalID: -1261952822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_76
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1232
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fc7a110d564d05afc06137abde73c
+      internalID: 1033425799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88860f0412e41c1b21a01e8f519c9f
+      internalID: 1862413657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_78
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf1714fd557400bb27c407debf2335
+      internalID: 910610076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_79
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5ce03831814a268712c1577b320e1
+      internalID: 1845121467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241f9cf14811411caa0086dba5c39b8
+      internalID: -1881668772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_81
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528d123d9c4d472ab4a5c1bd369d9d1
+      internalID: 885672467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_82
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d4b59403134a65b3fda084c8f0176
+      internalID: -960328560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_83
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1144
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0fbf05fad77471aa1aa03408841778
+      internalID: -215548887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe3934e3c0474593ba5bcf4fa68b851
+      internalID: 1150624921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_85
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0f41f2c6144c3a84b4c57ab0438fe
+      internalID: -66350985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_86
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64960411dc849c49568482be66ea96
+      internalID: -325142915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_87
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40679c55d3d4022b335da389f755f1
+      internalID: -1055687811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_88
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378420f0bbf9941d58822ea2fa49ff87
+      internalID: 386751754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_89
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a63c8bda2d4c5db203df454ebb2b4
+      internalID: -1551218743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_90
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1056
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f7fe4902094b198462affbe418cec
+      internalID: -734492364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95319ef009344494a93d84ccd7795970
+      internalID: -251603214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fd01463c75488fbecfbeedb6bf5d6
+      internalID: 1096632909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acb0ab3f9e44e2ba5bdec10158a093
+      internalID: 651170862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_94
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c74a6a595f47cf86053d639c056c5
+      internalID: 20384150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_95
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c682084591496f9f03e17e2572b40
+      internalID: -1614843526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_96
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b2114deb6142429de0695d07bf0a3
+      internalID: 792871937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_97
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 968
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90829a5192ea1431ebccf6fee038b100
+      internalID: -1090709148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b31f5b64d02412f8db9034e0f2f6b2
+      internalID: 1491040210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_99
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c12e23bad54131adeb1f821483cd4
+      internalID: -488591699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_100
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43ed37b4a554a5ca6677f38a5e9cd3
+      internalID: -361021385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_101
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2324449d14548ca8d70ec847e87a0d
+      internalID: -1789894629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_102
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfaf31feb9c94eb2a4dcc7e040ed5af
+      internalID: -2045807200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_103
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e91d27b27f457d81a1aa035fce77c
+      internalID: 1102212202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_104
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 880
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb21c6fd32645aaa3350e6fb391cde
+      internalID: 1713569404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e4ad6099074ecf9bc65da657815af
+      internalID: -1910932238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_106
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fbe62f93e704da6a9586c40ecbbefe
+      internalID: -1170015362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_107
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fed46bbd3c24ce1b2895469eba3a63
+      internalID: -426552473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_108
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41f6e22ab014d9b9047ed70d7d535e
+      internalID: 1441451373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_109
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5f276025134ed1984fe7f3833137d
+      internalID: -1052915999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_110
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17fe9963db3448abe4ff977bb3f89c
+      internalID: -1861025899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_111
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 792
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6efb0e6b41430d9944f8da32dc526
+      internalID: -630194823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286773ae1be5440beb2667e5cc325c07
+      internalID: 1414076561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353de826728004fb794f8499eac0c47b
+      internalID: 1244393013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_114
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289191c67a794db6a0fb0f49ae6bada
+      internalID: 576090116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_115
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acecf3828a183448db8b6f570eb1f8e7
+      internalID: 348106931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_116
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f3eed680b1447ba4fa7fbad08e49f
+      internalID: -2055444433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_117
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041df82c548d5429aae006597b157deb
+      internalID: -190925992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_118
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 704
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081c64ce8bd94e7999c54d0d9f3fb94
+      internalID: 2098420851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50cb1f1f09c44ca3b18c02966617b76
+      internalID: 1987167012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f086c1faeb5b43afadaae61afecd0db
+      internalID: -735709884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_121
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bffc787b37d4486ae9d75ae5ac6d57
+      internalID: 1115410698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_122
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b1838c16ad4dad8412f3938547b22
+      internalID: -1768646964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_123
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8dc03fe4594624bfcc8d3cea3fd4d
+      internalID: -173097483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_124
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c43ecbddd02b4d3597aed0a50a3ef60
+      internalID: -1801696324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_125
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 616
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0753c8f8e75748edb1bfc58a479c6c2
+      internalID: 428970649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3fdb9b331c44318feaa6f405e5d10
+      internalID: -471369599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_127
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1319522ab2246aa8c2e8891d0db75a
+      internalID: 346278345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_128
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f8defd0d3a0483aaf02012084c353f
+      internalID: 196103792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_129
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b2cd2676854f5f873f2c9dca2c481
+      internalID: -876892810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_130
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020f9033f7524986a4dac9e3075b140
+      internalID: -738871760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_131
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb0cb15582d47d1b0c15797f5a9ead
+      internalID: 1674909440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_132
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 528
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445743b8dc55442259e4ed500fc80365
+      internalID: 2134219840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dfa4a3abc9f4a4b99bb93249b232cc
+      internalID: 516248700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5418cf02a92145b1abdbcb6397d43b7
+      internalID: 880164095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_135
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfd56005ea34c3d89218dc0796884f
+      internalID: -1903392747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_136
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb7d56e2ebc49c0adbc769871a7775
+      internalID: -1831654704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_137
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d4d944ae354adaa0d27fab95cbdd2
+      internalID: -1372404323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_138
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7500edb97b2d46c392bdde5f8acfba9
+      internalID: -58282926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_139
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 440
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fed2667a73c46bd8d3102238c5e9c3
+      internalID: -1591542639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4909be18e68b4e09b644025e3aa9435
+      internalID: 777425505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7b57da0f4a411083ad38c7c73787c
+      internalID: -694778841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_142
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efada3470116b4f44b92c60fe508c9ba
+      internalID: 2053703452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_143
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38492071f971847bb894fb926b630a80
+      internalID: -500415103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_144
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a7c66ee4cbf4bd2bf62c2fb1baa566
+      internalID: 933565683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_145
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150d59f0ac5b42849e0029eda357bd6
+      internalID: 1357359249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_146
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 352
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7afc800e6d4ab79d725be1bc4bacf
+      internalID: -44323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd5d46b7999a49ce9fd1788c0266bec
+      internalID: -402018159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_148
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e51ab695de5414f92f5c5b04f61fb6
+      internalID: 740182820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_149
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ed3b070b32403885aa21d7e40acd9
+      internalID: 25442865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_150
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb279ddf0515b445fbc3236edf88304c
+      internalID: -61271030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_151
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c18e79fbf59a4d12a03739e3aa2c45b
+      internalID: 9077327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_152
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a814a534a8845e1bc0c311f0becb35
+      internalID: -1275225776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_153
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 264
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf79cadab16e49e7aa17faa4feb676a
+      internalID: 2024012163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b75fecf040431ba08a2739157e8ed
+      internalID: -220476967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_155
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a1955d2fb7485792d1c621a3bf355
+      internalID: -1520803915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_156
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765334ee29dc745b297cda1359f0c89d
+      internalID: -247631282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_157
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd6598af9e984eca985f6b6dc9c0400
+      internalID: 1832207469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_158
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412022c3df254aeaa584b453ed311bc
+      internalID: 130953361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_159
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c883d28ccc4399a12e60cb4a32e02
+      internalID: 1526414087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_160
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 176
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c685b79504df47b79560026cd2289af
+      internalID: -910498716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920b922b9f9a4ba8b07e525849b8694
+      internalID: -2131141484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_162
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efac0a6226a34e8e967f72b66c8d537
+      internalID: 771889608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_163
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7026f2a4272b4503b504be53a4bdbb8
+      internalID: 333318495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_164
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e736407735244209b51d04f07c90b7
+      internalID: 128337845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_165
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f7d1dc968f47fbbbf5f42527a909a
+      internalID: -825001056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_166
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef87289d9204d7ba6420db95d643c4
+      internalID: 1022310598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_167
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 88
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14faba1c47c45f59c820980ed13d7c
+      internalID: 1115708448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f1db0eb3654491b2aa49c0737dce1
+      internalID: -1161141953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_169
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6523bdb5cec475cb1678dac28015c9
+      internalID: 1109553172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_170
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d028551a87f4047850a5fe5fd997f1
+      internalID: 608806078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_171
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e21c6ebba64d0a964dc2bd517e60c
+      internalID: -1573214107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_172
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682bc8e4076d4ea89b331c34863b03c
+      internalID: 1530587126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_173
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc130093b9a584c0f955597a195d7043
+      internalID: -1966388210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthBad_174
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec1bf6253aa429facb2e85befb166c
+      internalID: 1100118702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      healthBad_0: -2006665874
+      healthBad_1: -1686158673
+      healthBad_10: -2096853522
+      healthBad_100: -361021385
+      healthBad_101: -1789894629
+      healthBad_102: -2045807200
+      healthBad_103: 1102212202
+      healthBad_104: 1713569404
+      healthBad_105: -1910932238
+      healthBad_106: -1170015362
+      healthBad_107: -426552473
+      healthBad_108: 1441451373
+      healthBad_109: -1052915999
+      healthBad_11: 731475070
+      healthBad_110: -1861025899
+      healthBad_111: -630194823
+      healthBad_112: 1414076561
+      healthBad_113: 1244393013
+      healthBad_114: 576090116
+      healthBad_115: 348106931
+      healthBad_116: -2055444433
+      healthBad_117: -190925992
+      healthBad_118: 2098420851
+      healthBad_119: 1987167012
+      healthBad_12: 877152116
+      healthBad_120: -735709884
+      healthBad_121: 1115410698
+      healthBad_122: -1768646964
+      healthBad_123: -173097483
+      healthBad_124: -1801696324
+      healthBad_125: 428970649
+      healthBad_126: -471369599
+      healthBad_127: 346278345
+      healthBad_128: 196103792
+      healthBad_129: -876892810
+      healthBad_13: 664247951
+      healthBad_130: -738871760
+      healthBad_131: 1674909440
+      healthBad_132: 2134219840
+      healthBad_133: 516248700
+      healthBad_134: 880164095
+      healthBad_135: -1903392747
+      healthBad_136: -1831654704
+      healthBad_137: -1372404323
+      healthBad_138: -58282926
+      healthBad_139: -1591542639
+      healthBad_14: 1340377466
+      healthBad_140: 777425505
+      healthBad_141: -694778841
+      healthBad_142: 2053703452
+      healthBad_143: -500415103
+      healthBad_144: 933565683
+      healthBad_145: 1357359249
+      healthBad_146: -44323157
+      healthBad_147: -402018159
+      healthBad_148: 740182820
+      healthBad_149: 25442865
+      healthBad_15: -1083297683
+      healthBad_150: -61271030
+      healthBad_151: 9077327
+      healthBad_152: -1275225776
+      healthBad_153: 2024012163
+      healthBad_154: -220476967
+      healthBad_155: -1520803915
+      healthBad_156: -247631282
+      healthBad_157: 1832207469
+      healthBad_158: 130953361
+      healthBad_159: 1526414087
+      healthBad_16: 1101516974
+      healthBad_160: -910498716
+      healthBad_161: -2131141484
+      healthBad_162: 771889608
+      healthBad_163: 333318495
+      healthBad_164: 128337845
+      healthBad_165: -825001056
+      healthBad_166: 1022310598
+      healthBad_167: 1115708448
+      healthBad_168: -1161141953
+      healthBad_169: 1109553172
+      healthBad_17: -1167101941
+      healthBad_170: 608806078
+      healthBad_171: -1573214107
+      healthBad_172: 1530587126
+      healthBad_173: -1966388210
+      healthBad_174: 1100118702
+      healthBad_18: -810784604
+      healthBad_19: 794289847
+      healthBad_2: 886141563
+      healthBad_20: -17149153
+      healthBad_21: 333364794
+      healthBad_22: 1633759690
+      healthBad_23: -1882303865
+      healthBad_24: -404147548
+      healthBad_25: 1157455079
+      healthBad_26: 761665367
+      healthBad_27: -1953639500
+      healthBad_28: 1516175256
+      healthBad_29: -1714585392
+      healthBad_3: 960839235
+      healthBad_30: -26416755
+      healthBad_31: -1937677027
+      healthBad_32: -1373169687
+      healthBad_33: -1013166584
+      healthBad_34: -586734126
+      healthBad_35: -1830782681
+      healthBad_36: 1043541681
+      healthBad_37: -560007566
+      healthBad_38: -1293453504
+      healthBad_39: 96061130
+      healthBad_4: 2073744642
+      healthBad_40: -91837952
+      healthBad_41: -1578605825
+      healthBad_42: 302896422
+      healthBad_43: 1780495687
+      healthBad_44: -1112393653
+      healthBad_45: -1093147631
+      healthBad_46: -667495390
+      healthBad_47: 1068912709
+      healthBad_48: 1370870557
+      healthBad_49: -1623137633
+      healthBad_5: 1480996185
+      healthBad_50: 763090942
+      healthBad_51: -903426598
+      healthBad_52: 1241458417
+      healthBad_53: 46826591
+      healthBad_54: 126285881
+      healthBad_55: -2049272112
+      healthBad_56: 961351229
+      healthBad_57: 125126602
+      healthBad_58: -1170712320
+      healthBad_59: 153660122
+      healthBad_6: 972480988
+      healthBad_60: 764726986
+      healthBad_61: 58465659
+      healthBad_62: -875686929
+      healthBad_63: -1688188681
+      healthBad_64: -599540427
+      healthBad_65: 875811083
+      healthBad_66: 1552822
+      healthBad_67: -585847378
+      healthBad_68: -246607952
+      healthBad_69: 1876796254
+      healthBad_7: -646822971
+      healthBad_70: -1869869064
+      healthBad_71: 1950243162
+      healthBad_72: 1276751940
+      healthBad_73: 355619357
+      healthBad_74: 369093006
+      healthBad_75: -1261952822
+      healthBad_76: 1033425799
+      healthBad_77: 1862413657
+      healthBad_78: 910610076
+      healthBad_79: 1845121467
+      healthBad_8: 1750163312
+      healthBad_80: -1881668772
+      healthBad_81: 885672467
+      healthBad_82: -960328560
+      healthBad_83: -215548887
+      healthBad_84: 1150624921
+      healthBad_85: -66350985
+      healthBad_86: -325142915
+      healthBad_87: -1055687811
+      healthBad_88: 386751754
+      healthBad_89: -1551218743
+      healthBad_9: 781129476
+      healthBad_90: -734492364
+      healthBad_91: -251603214
+      healthBad_92: 1096632909
+      healthBad_93: 651170862
+      healthBad_94: 20384150
+      healthBad_95: -1614843526
+      healthBad_96: 792871937
+      healthBad_97: -1090709148
+      healthBad_98: 1491040210
+      healthBad_99: -488591699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

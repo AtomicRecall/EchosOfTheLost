@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - coin
+  - MovingGhost
+  - Capsule
+  - pin
+  - Crying_Child
+  - WINNER
+  - Canvas
+  - Score
+  - FINISHED
+  - NOT
+  - Crying_Child(1)
+  - button
+  - finalGhost
+  - tag
+  - face
+  - ghostBullet
+  - INSTRUCTION
+  - health
+  - BottomGround
+  - time
+  - PlayerIgnoreWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - movingGhostDetection
+  - Water
+  - UI
+  - face
+  - ignoreplayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3421455365
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
